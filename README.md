@@ -5,13 +5,16 @@
 
 ## Contributors
 Vivek Oberoi:
-[LinkedIn](https://in.linkedin.com/in/vivek-oberoi-47ab61282/) |
+[LinkedIn](https://in.linkedin.com/in/vivek-oberoi-47ab61282/) 
+
 Rahul Saxsena:
-[LinkedIn]([https://www.linkedin.com/in/kian-azizkhani](https://in.linkedin.com/in/rahulsaxena)/) |
+[LinkedIn]([https://www.linkedin.com/in/kian-azizkhani](https://in.linkedin.com/in/rahulsaxena)/) 
+
 Sourav Ahuja:
-[LinkedIn](https://ca.linkedin.com/in/souravvahuja)/) |
+[LinkedIn](https://ca.linkedin.com/in/souravvahuja)/) 
+
 Alex Gibbison
-[LinkedIn](https://www.linkedin.com/in/alexander-gibbison-786683153/) |
+[LinkedIn](https://www.linkedin.com/in/alexander-gibbison-786683153/) 
 
 
 <img src="https://contrib.rocks/image?repo=salesp07/MyMind" />
