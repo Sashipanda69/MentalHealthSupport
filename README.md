@@ -3,20 +3,6 @@
 # BBY-31 -> MyMind
 <img src="https://raw.githubusercontent.com/salesp07/salesp07.github.io/master/public/mymind-responsive.png" alt="MyMind screenshot"/>
 
-## Contributors
-Vivek Oberoi:
-[LinkedIn](https://in.linkedin.com/in/vivek-oberoi-47ab61282/) 
-
-Rahul Saxsena:
-[LinkedIn](https://in.linkedin.com/in/rahulsaxena/) 
-
-Sourav Ahuja:
-[LinkedIn](https://ca.linkedin.com/in/souravvahuja/) 
-
-Alex Gibbison
-[LinkedIn](https://www.linkedin.com/in/alexander-gibbison-786683153/) 
-
-
 <img src="https://contrib.rocks/image?repo=salesp07/MyMind" />
 
 Milestone 1: Login / Logout - 100% Completed\
